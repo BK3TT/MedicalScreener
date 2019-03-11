@@ -1,0 +1,67 @@
+#theme-register {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-45%);
+  transform: translate(-50%,-45%);
+  width: 100%;
+  padding: 0em 1em;
+}
+
+#theme-register .card {
+  background-color: transparent;
+  border: 0;
+}
+
+#theme-register .card-title {
+  color: var(--orange-color);
+}
+
+#theme-register .btn-outline-primary {
+  color: var(--orange-color);
+  border-color: var(--orange-color);
+}
+
+#theme-register .btn-outline-primary:hover {
+  color: #000;
+  background-color: var(--orange-color);
+}
+
+#theme-register label {
+  color: var(--orange-color);
+}
+
+#theme-register a {
+  color: var(--orange-color);
+}
+
+#theme-register .btn-primary {
+  color: #000;
+  background-color: var(--orange-color);
+  border-color: var(--orange-color);
+  padding: 1.1em;
+}
+
+#theme-register .btn-primary:hover {
+  background-color: var(--orange-color-lighter);
+  border-color: var(--orange-color-lighter);
+}
+
+#theme-register .form-control {
+  background-color: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--orange-color);
+  padding: 0;
+}
+
+#theme-register .form-control:focus {
+  color: var(--orange-color-lighter);
+}
+
+#form_register .errors {
+  color: #ffffff;
+}
+
+#form_register .errors ul {
+  padding: 0em 1em;
+}

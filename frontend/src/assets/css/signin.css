@@ -1,0 +1,59 @@
+#theme-signin {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-45%);
+  transform: translate(-50%,-45%);
+  width: 100%;
+  padding: 0em 1em;
+}
+
+#theme-signin .card {
+  background-color: transparent;
+  border: 0;
+}
+
+#theme-signin .card-title {
+  color: var(--orange-color);
+}
+
+#theme-signin .btn-outline-primary {
+  color: var(--orange-color);
+  border-color: var(--orange-color);
+}
+
+#theme-signin .btn-outline-primary:hover {
+  color: #000;
+  background-color: var(--orange-color);
+}
+
+#theme-signin label {
+  color: var(--orange-color);
+}
+
+#theme-signin a {
+  color: var(--orange-color);
+}
+
+#theme-signin .btn-primary {
+  color: #000;
+  background-color: var(--orange-color);
+  border-color: var(--orange-color);
+  padding: 1.1em;
+}
+
+#theme-signin .btn-primary:hover {
+  background-color: var(--orange-color-lighter);
+  border-color: var(--orange-color-lighter);
+}
+
+#theme-signin .form-control {
+  background-color: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--orange-color);
+  padding: 0;
+}
+
+#theme-signin .form-control:focus {
+  color: var(--orange-color-lighter);
+}

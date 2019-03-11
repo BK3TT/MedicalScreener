@@ -1,0 +1,77 @@
+#theme-user {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-45%);
+  transform: translate(-50%,-45%);
+  width: 100%;
+  padding: 0em 1em;
+}
+
+#theme-user .card {
+  background-color: transparent;
+  border: 0;
+}
+
+#theme-user .card-title {
+  color: var(--orange-color);
+}
+
+#theme-user label {
+  color: var(--orange-color);
+  font-weight: bold;
+}
+
+#theme-user p {
+  color: var(--orange-color-lighter);
+}
+
+#theme-user .edit {
+  position: absolute;
+  right: 15px;
+  top: 5px;
+  font-size: 20px;
+  color: #cacaca;
+  z-index: 10;
+}
+
+#theme-user #edit-profile-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;  
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  padding: 2em 1em;
+  display: none;
+  z-index: 20000002;
+}
+
+#theme-user #edit-profile-overlay  .form-control {
+  background-color: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--orange-color);
+  padding: 0;
+}
+
+#theme-user #edit-profile-overlay .form-control:focus {
+  color: var(--orange-color-lighter);
+}
+
+#theme-user #edit-profile-overlay .close{
+  color: #ffffff;
+  opacity: 1;
+  margin-top: -15px;
+}
+
+#theme-user .btn-primary {
+  color: #000;
+  background-color: var(--orange-color);
+  border-color: var(--orange-color);
+  padding: 1.1em;
+}
+
+#theme-user .btn-primary:hover {
+  background-color: var(--orange-color-lighter);
+  border-color: var(--orange-color-lighter);
+}

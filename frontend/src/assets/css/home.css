@@ -1,0 +1,26 @@
+#theme-home {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-45%);
+    transform: translate(-50%,-45%);
+    width: 100%;
+    padding: 0em 1em;
+}
+#theme-home .title {
+    color: var(--orange-color);
+    text-align: center;
+}
+#theme-home .sub-title {
+    color: var(--orange-color-lighter);
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    #theme-home .title {
+        font-size: 1.5em;
+    }
+    #theme-home .sub-title {
+        font-size: 1em;
+    }
+}

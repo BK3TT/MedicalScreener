@@ -2,7 +2,7 @@
 
 This project gives dummy functionality what a Medical Screener could look like in the future, it's mainly made to look good on Mobile with it looking the same in Desktop view. As the Project should mainly run on Smaller devices due to the majority of people having them.
 
-The project is built with VueJS and PHP
+The project is built with VueJS and PHP, this based project is a very good skeleton to get started with a Medical Screener system
 
 ### Build Time:
 

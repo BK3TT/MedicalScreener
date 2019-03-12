@@ -43,6 +43,8 @@ Next you will need to follow the following steps:
  
  ### Things to check
  
+ - Run: ```backend example: http://localhost/``` and ```frontend example: http://localhost:8080/``` - Make sure that the frontend and backend are running on different ports, makes it easier if they're running on seperate domains or sub domains
+ 
  - From LiveZilla make sure you add the update code which gets provided inside /frontend/index.html the code should look similar to:
  
 ```<script type="text/javascript" id="lzdefsc" src="//localhost/livezilla/script.php?id=lzdefsc" defer></script>```

@@ -10,7 +10,6 @@
                         <input name="email" class="form-control" placeholder="Email" type="email">
                     </div>
                     <div class="form-group">
-                        <a class="float-right" href="#">Forgot?</a>
                         <label>Your password</label>
                         <input name="password" class="form-control" placeholder="******" type="password">
                     </div>

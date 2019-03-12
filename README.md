@@ -2,6 +2,18 @@
 
 This project gives dummy functionality what a Medical Screener could look like in the future, it's mainly made to look good on Mobile with it looking the same in Desktop view. As the Project should mainly run on Smaller devices due to the majority of people having them.
 
+The project is built with VueJS and PHP
+
+### Features
+
+- Home page
+- Fill out Survey 
+- Completion page ('Shows not qualified') due to this being a dummy project
+- Chatbox (LiveZilla Plugin)
+- Sign in
+- Register
+- User Profile (Updating data)
+
 ### Required to set up project 
 
 - Node 

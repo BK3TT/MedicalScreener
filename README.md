@@ -38,8 +38,10 @@ Next you will need to follow the following steps:
  - Add: ```medical-screener.sql``` to your local database
  - Add: LiveZilla (https://www.livezilla.net/home/en/) - Make sure you take the LiveZilla folder and then when you have your localhost running go to localhost/livezilla and follow install instructions
  
- - Run: go inside frontend folder from terminal and do ```npm install``` this should install the node modules required for project
- - Run: ```npm run dev``` you should have the project up and running
+ - Run: go inside frontend folder from terminal and do ```npm install``` this will install the node modules required for project
+ - Run: continue with terminal and execute ```npm run dev```
+ 
+ Once you've completed the setup steps, the project should be running
  
  ### Things to check
  

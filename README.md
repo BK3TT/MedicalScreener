@@ -45,8 +45,6 @@ Next you will need to follow the following steps:
  - Run: go inside frontend folder from terminal and do ```npm install``` this will install the node modules required for project
  - Run: continue with terminal and execute ```npm run dev```
  
- Once you've completed the setup steps, the project should be running
- 
  ### Things to check
  
  - Run: ```backend example: http://localhost/``` and ```frontend example: http://localhost:8080/``` - Make sure that the frontend and backend are running on different ports, makes it easier if they're running on seperate domains or sub domains
@@ -56,5 +54,7 @@ Next you will need to follow the following steps:
 ```<script type="text/javascript" id="lzdefsc" src="//localhost/livezilla/script.php?id=lzdefsc" defer></script>```
 
 - If LiveZilla is set up correctly, you should datatables starting with ```lz_``` in local database
+
+Once you've completed the setup steps, the project should be running
 
 ##### Built by: Christopher Beckett

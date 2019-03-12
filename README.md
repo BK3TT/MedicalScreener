@@ -1,1 +1,34 @@
-"# MedicalScreener" 
+# Medical Screener
+
+This project gives dummy functionality what a Medical Screener could look like in the future, it's mainly made to look good on Mobile with it looking the same in Desktop view. As the Project should mainly run on Smaller devices due to the majority of people having them.
+
+### Required to set up project 
+
+- Node 
+- Npm 
+- Git
+- Local Server with Database
+
+### Setup
+
+First you will need to clone the repo
+
+ ```git clone https://github.com/BK3TT/MedicalScreener.git```
+ 
+Next you will need to follow the following steps:
+ 
+ - Add: ```medical-screener.sql``` to your local database
+ - Add: LiveZilla (https://www.livezilla.net/home/en/) - Make sure you take the LiveZilla folder and then when you have your localhost running go to localhost/livezilla and follow install instructions
+ 
+ - Run: go inside frontend folder from terminal and do ```npm install``` this should install the node modules required for project
+ - Run: ```npm run dev``` you should have the project up and running
+ 
+ ### Things to check
+ 
+ - From LiveZilla make sure you add the update code which gets provided inside /frontend/index.html the code should look similar to:
+ 
+```<script type="text/javascript" id="lzdefsc" src="//localhost/livezilla/script.php?id=lzdefsc" defer></script>```
+
+- If LiveZilla is set up correctly, you should datatables starting with ```lz_``` in local database
+ 
+ 

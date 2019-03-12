@@ -12,6 +12,8 @@ The project is built with VueJS and PHP, this based project is a very good skele
 
 This is not a complete project, this is only a skeleton with dummy data - there is potential for much more such as data validation and full booking system.
 
+**Free to use for anyone wanting to enhance or modify**
+
 ### Features
 
 - Home page

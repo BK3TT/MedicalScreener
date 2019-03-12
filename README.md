@@ -6,8 +6,8 @@ The project is built with VueJS and PHP, this based project is a very good skele
 
 ### Build Time:
 
-- **Research Time to Learn more about VueJS:** 5 hours
-- **PHP Code:** 2 hours
+- **Research time to learn more about VueJS:** 5 hours
+- **Backend:** 2 hours
 - **Frontend:** 6 hours
 
 ### Features

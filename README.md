@@ -10,7 +10,7 @@ The project is built with VueJS and PHP, this based project is a very good skele
 - **Backend:** 2 hours
 - **Frontend:** 6 hours
 
-(This is not a complete project, this is only a skeleton with dummy data - there is potential for much more such as data validation and booking system)
+This is not a complete project, this is only a skeleton with dummy data - there is potential for much more such as data validation and booking system
 
 ### Features
 

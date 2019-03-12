@@ -6,9 +6,9 @@ The project is built with VueJS and PHP
 
 ### Build Time:
 
-Research Time to Learn more about VueJS: 5 hours
-PHP Code: 2 hours
-Frontend: 6 hours
+- **Research Time to Learn more about VueJS:** 5 hours
+- **PHP Code:** 2 hours
+- **Frontend:** 6 hours
 
 ### Features
 

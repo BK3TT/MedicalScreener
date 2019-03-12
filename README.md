@@ -48,5 +48,5 @@ Next you will need to follow the following steps:
 ```<script type="text/javascript" id="lzdefsc" src="//localhost/livezilla/script.php?id=lzdefsc" defer></script>```
 
 - If LiveZilla is set up correctly, you should datatables starting with ```lz_``` in local database
- 
- 
+
+##### Built by: Christopher Beckett

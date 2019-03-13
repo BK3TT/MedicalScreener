@@ -4,7 +4,7 @@
             <article class="card-body">
                 <a href="/#/signin" class="float-right btn btn-outline-primary">Sign in</a>
                 <h4 class="card-title mb-4 mt-1">Sign Up</h4>
-                <form id="form_register" enctype="multipart/form-data" action="http://localhost/api/user/register" method="POST" @submit="validateRegister">
+                <form id="form_register" enctype="multipart/form-data" action="http://localhost/api/users/register" method="POST" @submit="validateRegister">
                     <div class='errors'>
                         <p v-if="errors.length">
                             <ul>
